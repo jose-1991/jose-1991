@@ -1,10 +1,16 @@
 <div align="center">
 
-# Hi there, I'm Jose Flores 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jose%20Flores&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%7C%20Oracle%20Certified%20Java%20SE%208&descAlignY=58&descSize=18)
 
-### Software Developer · Oracle Certified Java SE 8 Programmer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Java+Developer+%E2%98%95;Oracle+Certified+Professional+%F0%9F%8F%85;Freelance+Software+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%94%A5;Based+in+Cochabamba%2C+Bolivia+%F0%9F%87%A7%F0%9F%87%B4)](https://github.com/jose-1991)
 
-📍 Cochabamba, Bolivia &nbsp;|&nbsp; 📧 jose.floresc.java@gmail.com &nbsp;|&nbsp; 📞 +591 64819088
+<br/>
+
+![](https://komarev.com/ghpvc/?username=jose-1991&style=for-the-badge&color=0d1117&labelColor=00d4ff&label=PROFILE+VIEWS)
+&nbsp;
+[![](https://img.shields.io/badge/📍_Cochabamba,_Bolivia-0d1117?style=for-the-badge)](https://github.com/jose-1991)
+&nbsp;
+[![](https://img.shields.io/badge/📧_jose.floresc.java@gmail.com-0d1117?style=for-the-badge)](mailto:jose.floresc.java@gmail.com)
 
 </div>
 
@@ -83,3 +89,5 @@ As a freelance developer, I've built and maintained small-scale applications, im
 <div align="center">
   <sub>Made with ❤️ from Cochabamba, Bolivia 🇧🇴</sub>
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
