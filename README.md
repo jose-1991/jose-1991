@@ -68,32 +68,6 @@ As a freelance developer, I've built and maintained small-scale applications, im
 
 ---
 
-## 💼 Experience
-
-**Software Developer / Freelancer** *(Jun 2022 – Dec 2025 · Remote)*
-- Developed and maintained small-scale applications using Java
-- Implemented business logic, data handling, and debugging
-- Collaborated with clients to understand requirements and deliver solutions
-
-**Business Administrator** *(Jun 2015 – Mar 2021 · Cochabamba)*
-- Handled daily cash operations and accounting tasks
-- Managed customer service and administrative duties
-- Ensured accurate transaction processing and reporting
-
-**Electrical Technician — Security Systems** *(Jan 2012 – Jun 2013 · Cochabamba)*
-- Performed electrical installations and maintenance
-- Interpreted electrical and electronic plans
-- Supported security systems implementation
-
----
-
-## 🎓 Education
-
-- 🎓 **Systems Engineering** — Universidad Mayor de San Simón (UMSS), 2014
-- ⚡ **Industrial Electronics Technician** — INFOCAL, 2010–2012
-
----
-
 ## 📬 Contact
 
 <div align="center">
