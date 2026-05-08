@@ -41,7 +41,7 @@ As a freelance developer, I've built and maintained small-scale applications, im
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -58,9 +58,9 @@ As a freelance developer, I've built and maintained small-scale applications, im
 
 <div align="center">
 
-![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jose-1991&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2fff&text_color=e2e8f0)
+![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jose-1991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-1991&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=e2e8f0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-1991&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jose-1991&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7b2fff&currStreakLabel=00d4ff)
 
