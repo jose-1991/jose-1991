@@ -10,7 +10,7 @@
 &nbsp;
 [![](https://img.shields.io/badge/📍_Cochabamba,_Bolivia-0d1117?style=for-the-badge)](https://github.com/jose-1991)
 &nbsp;
-[![](https://img.shields.io/badge/📧_jose.floresc.java@gmail.com-0d1117?style=for-the-badge)](mailto:jose.floresc.java@gmail.com)
+[![](https://img.shields.io/badge/📧_jose.fc.contact@gmail.com-0d1117?style=for-the-badge)](mailto:jose.fc.contact@gmail.com)
 
 </div>
 
@@ -82,7 +82,7 @@ As a freelance developer, I've built and maintained small-scale applications, im
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-jose.floresc.java%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jose.floresc.java@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jose.floresc.java%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jose.fc.contact@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-jose--1991-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jose-1991)
 [![Website](https://img.shields.io/badge/Portfolio-my--personal--web-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jose-1991.github.io/my-personal-web/)
 
