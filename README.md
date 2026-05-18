@@ -55,7 +55,7 @@ As a freelance developer, I've built and maintained small-scale applications, im
 
 | Badge | Certification | Issuer | Year |
 |-------|--------------|--------|------|
-| ☕ | Oracle Certified Associate — Java SE 8 Programmer (OCA) | Oracle | 2021 |
+| 🏅 | Oracle Certified Associate — Java SE 8 Programmer (OCA) | Oracle | 2021 |
 | 🏅 | Oracle Certified Professional — Java SE 8 Programmer (OCP) | Oracle | 2021 |
 
 ---
